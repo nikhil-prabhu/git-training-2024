@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("Start")
-	fmt.Println("Vanakkam")
+	fmt.Println("Hello world!")
 	fmt.Println("Done")
 }
 
